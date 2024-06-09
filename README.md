@@ -6,9 +6,10 @@
   <img height="100" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif"  />
 </div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sanket3yoprogrammer/Sanket3yoprogrammer/output/snake.svg" alt="Snake animation" />
+
+<img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif"
+  />
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
@@ -153,3 +154,5 @@ while(alive) {
 Sanket3yoProgrammer/Sanket3yoProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- This gif borrowed from @John Mwendwa -->
+<img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" />
