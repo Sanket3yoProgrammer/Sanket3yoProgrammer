@@ -11,7 +11,7 @@
 <img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif"
   />
 
-- 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
+- 🔭 I’m currently working on a login logut to a friends group website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
 - 🌱 I’m currently learning backend development and ethical hacking **Ethical hacking, Javascript, Python, etc.**
 
