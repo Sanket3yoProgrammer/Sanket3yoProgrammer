@@ -11,13 +11,12 @@
 <img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif"
   />
 
-- 🔭 I’m currently working on a login logut to a friends group website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
+- 🔭 I’m currently working on a login logut form project 
 
 - 🌱 I’m currently learning backend development and ethical hacking **Ethical hacking, Javascript, Python, etc.**
 
-- 👀 I’m looking for help with backend servers [Phg(To show online members list)](https://github.com/Sanket3yoProgrammer/Pudina.git)
+- 👀 I’m looking for help with backend servers management 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanket3yoProgrammer](https://github.com/Sanket3yoProgrammer)
 
 - 📝 I learn ethical hacking from youtube [https://m.youtube.com/results?sp=mAEA&search_query=Ethical+Hacking+](https://m.youtube.com/results?sp=mAEA&search_query=Ethical+Hacking+)
 
@@ -123,8 +122,7 @@
 
 <hr>
 
-<h2 align="center">Random Dev Meme🤌</h2>
-<img src="https://memer-new.vercel.app/" style="height: 400px;" alt="meme">
+
 
 ```js
 // Check if the code is functioning correctly
