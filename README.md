@@ -11,16 +11,16 @@
 <img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif"
   />
 
-- 🔭 I’m currently working on a login logut form project 
+- 🔭 I’m currently working on not one but many forms and types of projects.
 
 - 🌱 I’m currently learning backend development and ethical hacking **Ethical hacking, Javascript, Python, etc.**
 
-- 👀 I’m looking for help with backend servers management 
+- 👀 I’m looking for scopes for backend servers management and ethical security expertise 
 
 
 - 📝 I learn ethical hacking from youtube [https://m.youtube.com/results?sp=mAEA&search_query=Ethical+Hacking+](https://m.youtube.com/results?sp=mAEA&search_query=Ethical+Hacking+)
 
-- 💬 Ask me about programming **Html, Css, Javascript, etc**
+- 💬 Ask me about programming **Html, Css, Javascript, Python,etc**
 
 - 📫 How to reach me **sanketkumarpadhan95@gmail.com**
 
