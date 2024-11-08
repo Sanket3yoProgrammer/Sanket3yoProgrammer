@@ -7,9 +7,8 @@
 </div>
 
 
-
-<img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif"
-  />
+<!-- <img src="https://media.tenor.com/e3j5cQ55tpoAAAAi/divide.gif" /> -->
+ 
 
 - 🔭 I’m currently working on not one but many forms and types of projects.
 
