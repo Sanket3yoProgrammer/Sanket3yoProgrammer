@@ -70,9 +70,9 @@
   <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&no-bg=false&no-frame=false" height="150" alt="streak graph" style="margin-bottom: -40px;" />
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://github.com/sanket3yoprogrammer/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy" style="display: block; margin: auto;">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy">
   </a>
 </div>
 
