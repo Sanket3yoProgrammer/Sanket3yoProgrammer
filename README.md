@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150px" />
+  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="150px" />
 </p>
 
 <p align="center">
@@ -24,8 +24,6 @@
 🚀 Currently working on cool web designs
 
 ```
-
-![Coding Illustration](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 ## 🚀 Tech Stack
@@ -81,3 +79,6 @@
   <a href="https://www.chess.com/member/Sanket_y07"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white"></a>
   <a href="https://sanketme-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
+
+
+![Coding Illustration](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
