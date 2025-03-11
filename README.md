@@ -1,3 +1,4 @@
+# Sanket3yoProgrammer
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:171515&height=250&section=header&text=👋Hello,%20I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
@@ -16,6 +17,7 @@
 ## 🌟 About Me
 
 ```
+
 👨‍💻 10th Grader at OAV, H.Katapali
 🎨 Currently learning Frontend Web Design & creating cool projects
 💻 Passionate Full-Stack Developer (React, Node.js, MongoDB, Supabase...)
@@ -63,10 +65,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket3yoprogrammer&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket3yoprogrammer&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanket3yoprogrammer&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies">
+<img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&locale=en&order=1&no-bg=false&no-frame=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&no-bg=false&no-frame=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&no-bg=false&no-frame=false" height="150" alt="streak graph" style="margin-bottom: -40px;" />
+</div>
+
+<div style="text-align: left;">
+  <a href="https://github.com/sanket3yoprogrammer/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy" style="display: block; margin: auto;">
+  </a>
 </div>
 
 
@@ -79,6 +86,3 @@
   <a href="https://www.chess.com/member/Sanket_y07"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white"></a>
   <a href="https://sanketme-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
-
-
-![Coding Illustration](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
