@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF3C00,0D1B2A&height=100&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality%20|%20✨%20Here%20to%20create%20impact!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00000099&strokeWidth=1">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00E5FF,7B1FA2,311B92&height=110&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality%0A✨%20Here%20to%20create%20impact!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=ffffff33&strokeWidth=1.5">
 </p>
 
 
