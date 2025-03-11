@@ -92,3 +92,9 @@
   <a href="https://www.chess.com/member/Sanket_y07"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white"></a>
   <a href="https://sanketme-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
+
+
+
+<div align="center" style="width: 100%; background: transparent; padding: 10px 0;">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1aaddb2a/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%" style="max-width: 100%; border-radius: 0;">
+</div>
