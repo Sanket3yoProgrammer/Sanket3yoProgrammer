@@ -12,10 +12,12 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00E5FF,7B1FA2,311B92&height=110&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality%0A✨%20Here%20to%20create%20impact!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=ffffff33&strokeWidth=1.5">
+<p align="center" style="background: linear-gradient(135deg, #00E5FF, #7B1FA2, #311B92); border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+  <span style="color: white; font-size: 20px; font-weight: 500;">
+    🚀 Coding since day one &nbsp;|&nbsp; 💡 Turning ideas into reality <br>
+    ✨ Here to create impact! 🎯 Always learning new tech
+  </span>
 </p>
-
 
 
 
