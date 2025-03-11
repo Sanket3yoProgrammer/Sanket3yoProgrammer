@@ -1,6 +1,6 @@
 # Sanket3yoProgrammer
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:171515&height=250&section=header&text=👋Hello,%20I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:9B59B6,100:171515&height=270&section=header&text=👋%20Hello,%20I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Designer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=60)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=45&lines=🌍+Jharsuguda%2C+Odisha%2C+India%2C+Asia%2C+Earth" alt="Typing SVG">
