@@ -6,17 +6,13 @@
   <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="150px" />
 </p>
 
-![Location](https://capsule-render.vercel.app/api?type=waving&color=0:0AFFAA,100:171515&height=150&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+![Location](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0AFFAA,171515&height=120&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
 
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="160px">
-</p>
+![About](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF4500,171515&height=120&section=header&text=🔥%20Developer%20|%20Innovator%20|%20Tech%20Enthusiast&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
 
-![About](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:171515&height=150&section=header&text=🔥%20Developer%20|%20Innovator%20|%20Tech%20Enthusiast&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B59B6,171515&height=120&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
 
-![Skills](https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:171515&height=150&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
-
-![Impact](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:171515&height=150&section=header&text=✨%20Here%20to%20create%20impact!%20🎯%20Always%20learning%20new%20tech&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+![Impact](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF5733,171515&height=120&section=header&text=✨%20Here%20to%20create%20impact!%20🎯%20Always%20learning%20new%20tech&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
 
 
 ## 🌟 About Me
