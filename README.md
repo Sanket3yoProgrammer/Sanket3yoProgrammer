@@ -7,9 +7,12 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0AFFAA,065F46&height=100&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00000099&strokeWidth=1">
+<p align="center" style="background: linear-gradient(135deg, #FF8C00, #FF3D00, #8B0000); border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+  <span style="color: white; font-size: 40px; font-weight: 500;">
+    🌍 Jharsuguda, Odisha, India &nbsp;|&nbsp; Asia &nbsp;|&nbsp; Earth
+  </span>
 </p>
+
 
 
 <p align="center" style="background: linear-gradient(135deg, #00E5FF, #7B1FA2, #311B92); border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
