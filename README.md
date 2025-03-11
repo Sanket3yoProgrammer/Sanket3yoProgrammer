@@ -6,6 +6,18 @@
   <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="150px" />
 </p>
 
+<!-- 🌍 LOCATION SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0AFFAA,065F46&height=100&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00000099&strokeWidth=1">
+</p>
+
+
+<!-- 🚀 FINAL MERGED BLOCK (Developer, Skills & Impact) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF5733,4A148C&height=100&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality%20|%20✨%20Here%20to%20create%20impact!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00000099&strokeWidth=1">
+</p>
+
+
 ![Location](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0AFFAA,171515&height=120&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF4500,171515&height=120&section=header&text=🔥%20Developer%20|%20Innovator%20|%20Tech%20Enthusiast&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50)
