@@ -62,14 +62,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
-
-
-## 🔥 Fun Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,12 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket3yoprogrammer&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanket3yoprogrammer&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies">
 </div>
-
-
-
-## 🎨 Random Dev Meme
-
-<img src="https://i.redd.it/13q7jh3brya81.jpg" width="500px" align="center" alt="Dev Meme" />
 
 
 ## 🌐 Connect With Me
