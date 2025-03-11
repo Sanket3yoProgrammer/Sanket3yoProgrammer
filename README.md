@@ -3,16 +3,21 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:9B59B6,100:171515&height=270&section=header&text=I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Designer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=45&lines=🌍+Jharsuguda%2C+Odisha%2C+India%2C+Asia%2C+Earth" alt="Typing SVG">
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="150px" />
 </p>
 
+![Location](https://capsule-render.vercel.app/api?type=waving&color=0:0AFFAA,100:171515&height=150&section=header&text=🌍%20Jharsuguda%2C%20Odisha%2C%20India%20|%20Asia%20|%20Earth&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=FF5733&center=true&vCenter=true&width=600&height=45&lines=🔥+Developer+|+Innovator+|+Tech+Enthusiast;🚀+Coding+since+day+one;💡+Turning+ideas+into+reality;✨+Here+to+create+impact!" alt="Typing SVG" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="160px">
 </p>
+
+![About](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:171515&height=150&section=header&text=🔥%20Developer%20|%20Innovator%20|%20Tech%20Enthusiast&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+
+![Skills](https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:171515&height=150&section=header&text=🚀%20Coding%20since%20day%20one%20💡%20Turning%20ideas%20into%20reality&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+
+![Impact](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:171515&height=150&section=header&text=✨%20Here%20to%20create%20impact!%20🎯%20Always%20learning%20new%20tech&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50)
+
 
 ## 🌟 About Me
 
