@@ -7,6 +7,7 @@
 </p>
 
 
+
 <p align="center" style="background: linear-gradient(135deg, #FF8C00, #FF3D00, #8B0000); border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
   <span style="color: white; font-size: 40px; font-weight: 500;">
     🌍 Jharsuguda, Odisha, India &nbsp;|&nbsp; Asia &nbsp;|&nbsp; Earth
@@ -22,7 +23,9 @@
   </span>
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" width="150px" />
+</p>
 
 ## 🌟 About Me
 
