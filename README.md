@@ -26,9 +26,9 @@
   </span>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" width="150px" />
-</p>
+
+  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" />
+
 
 ## 🌟 About Me
 
