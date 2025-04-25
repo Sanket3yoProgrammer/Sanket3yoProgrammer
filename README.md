@@ -70,13 +70,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&locale=en&order=1&no-bg=false&no-frame=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&no-bg=false&no-frame=false" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&no-bg=false&no-frame=false" height="150" alt="streak graph" style="margin-bottom: -40px;" />
 </div>
 
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&locale=en&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+</div>
+
+
+<div align="left">
   <a href="https://github.com/sanket3yoprogrammer/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy">
   </a>
@@ -85,7 +93,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:sanketkumarpadhan95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Sanket3yoprogrammer"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="http://codepen.io/Sanket-Kumar-Padhan-the-bold/"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
