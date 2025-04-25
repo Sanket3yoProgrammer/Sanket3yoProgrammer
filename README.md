@@ -2,9 +2,9 @@
   👋 Yo !
 </h1>
 
-<p align="center">
+< align="center">
 ![Header ](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:9B59B6,100:171515&height=270&section=header&text=I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Designer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=60)
-</p>
+</>
 
 <p align="center">
   <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="150px" />
