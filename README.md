@@ -1,4 +1,4 @@
-# 👋 Hello, Yo!
+# 👋 Yo !
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:9B59B6,100:171515&height=270&section=header&text=I%20Am%20Sanket%20Kumar%20Padhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Designer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=60)
 
@@ -77,7 +77,7 @@
 </div>
 
 
-
+## 🏆 Trophies
 <div align="left">
   <a href="https://github.com/sanket3yoprogrammer/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy">
