@@ -33,7 +33,7 @@
 
 ```
 
-👨‍💻 10th Grader at OAV, H.Katapali
+👨‍💻 11th Grader at Iconic O.A.V, Bhubaneswar
 🎨 Currently learning Frontend Web Design & creating cool projects
 💻 Passionate Full-Stack Developer (React, Node.js, MongoDB, Supabase...)
 🔥 Love creating modern, futuristic, and unique web projects
